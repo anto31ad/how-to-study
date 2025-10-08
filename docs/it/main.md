@@ -60,7 +60,6 @@ Questo documento si propone di fornire agli studenti una guida pratica e leggera
 - **riconoscimento** : ricordarsi di qualcosa solo dopo averla rivista
     - es. ricordarsi di una frase solo dopo averla riletta
     - quando ripassiamo con il "leggi e ripeti" stiamo facendo *riconoscimento*, non *richiamo*
-    (con altre conseguenze indesiderate che saranno approfondite).
 
 
 ### Studio
