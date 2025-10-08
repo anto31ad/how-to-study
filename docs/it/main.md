@@ -96,7 +96,7 @@ Questo documento si propone di fornire agli studenti una guida pratica e leggera
 
 ---
 
-## A Lezione
+## Quando ti trovi a lezione
 
 **Poco prima**
 
@@ -135,8 +135,9 @@ Questo processo rinfresca la memoria e riscalda i motori.
 5. per questo argomento
     - fai lo schema
     - scrivi i quiz (per i ripassi)
+6. torna al passo 1 (se vuoi continuare a studiare).
 
-## Ripasso
+## Durante le sessioni di ripasso
 
 - (X) non leggere e ripetere come il pappagallo
 - autointerrogati con i quiz, prova a rispondere senza guardare la risposta; poi confronta gli errori.
