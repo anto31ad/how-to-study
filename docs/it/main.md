@@ -63,13 +63,13 @@ Questo documento si propone di fornire agli studenti una guida pratica e leggera
     (con altre conseguenze indesiderate che saranno approfondite).
 
 
-## Studio
+### Studio
 
 - Lo **studio** è il processo con cui osserviamo degli elementi della realtà (es. frasi, immagini, concetti, ...) e cerchiamo di comprenderne le relazioni (es. struttura, ordine, dimensioni, connessioni, ...).
 - Lo studio non sempre garantisce una utilità pratica immediata;
 - Lo studio, piuttosto, va visto come una *inseminazione di concetti* che, a lungo andare, manifestano nuove relazioni, potenzialmente di notevole utilità pratica.
 
-## Test
+### Test
 
 - Chiamiamo **test** qualsiasi attività che verifica la capacità di richiamare specifici concetti e, spesso, di utilizzarli per risolvere un problema.
 - I test sono ovunque:
@@ -79,14 +79,14 @@ Questo documento si propone di fornire agli studenti una guida pratica e leggera
     - un viaggio,
     - una qualsiasi nuova esperienza.
 
-## Ripasso
+### Ripasso
 
 - Il **ripasso** è l'attività con cui revisioniamo specifici concetti già studiati in precedenza.
 - Un buon ripasso è spesso basato sul *richiamo* (e non sul *riconoscimento*);
 - di solito un solo ripasso non è sufficiente;
 - il ripasso non dovrebbe essere più faticoso dello studio.
 
-## Quiz
+### Quiz
 
 - un **quiz** è un insieme di domande
 - ogni domanda riguarda uno o più concetti
