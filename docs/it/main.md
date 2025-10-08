@@ -1,4 +1,4 @@
-# Metodo di Studio
+# Guida allo studio
 
 Questo documento si propone di fornire agli studenti una guida pratica e leggera per affrontare lo studio a qualsiasi livello.
 
